@@ -29,6 +29,7 @@ GB(Gradient boosted trees) -- Accuracy: 0.798, Precision: 0.784, Recall:0.615, L
 **Conclusion**:
 
 We can see that from the 5 ML models the Random-Forest (learning_rate=0.01,max_depth=2, n_estimators=500) is the best fit. 
+
 Random Forest(with test_data) -- Accuracy: 0.81, Precision: 0.875, Recall:0.645, Latency: 0.01566004753112793ms
 
 Thank you.
