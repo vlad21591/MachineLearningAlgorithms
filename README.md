@@ -9,7 +9,7 @@ While there was some element of luck involved in surviving, it seems some groups
 **Purpose**:
 
 Build a predictive model that answers the question: “what sorts of people were more likely to survive?” using passenger data (ie name, age, gender, socio-economic class, etc).
-machine learning to create a model that predicts which passengers survived the Titanic shipwreck.
+Machine learning with feature scaling (standardization) to create a model that predicts which passengers survived the Titanic shipwreck.
 
 [The data came from Kaggle -- Titanic: Machine Learning from Disaster]
 
