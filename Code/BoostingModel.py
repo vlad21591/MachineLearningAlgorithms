@@ -4,7 +4,7 @@ from sklearn.model_selection import GridSearchCV
 from sklearn.ensemble import GradientBoostingClassifier
 
 tr_features = pd.read_csv('train_features.csv')
-tr_labels = pd.read_csv('train_labels.csv', header=None)
+tr_labels = pd.read_csv('train_labels.csv')
 
 
 def print_results(results):
