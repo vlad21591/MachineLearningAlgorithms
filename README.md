@@ -15,20 +15,20 @@ Machine learning with feature scaling (standardization) to create a model that p
 
 **Results(from the Conclusion.py)**:
 
-LR(Logistic regression) -- Accuracy: 0.691, Precision: 0.75, Recall:0.231, Latency: 0.01558065414428711ms
+LR(Logistic regression) -- Accuracy: 0.691, Precision: 0.75, Recall:0.231
 
-SVM(Support Vector Machines) -- Accuracy: 0.635, Precision: 0.0, Recall:0.0, Latency: 0.0ms
+SVM(Support Vector Machines) -- Accuracy: 0.635, Precision: 0.0, Recall:0.0
 
-MLP(Multilayer perception) -- Accuracy: 0.382, Precision: 0.371, Recall:1, Latency: 0.0ms
+MLP(Multilayer perception) -- Accuracy: 0.382, Precision: 0.371, Recall:1
 
-RF(Random forest) -- Accuracy: 0.742, Precision: 0.744, Recall:0.446, Latency: 0.0ms
+RF(Random forest) -- Accuracy: 0.742, Precision: 0.744, Recall:0.446
 
-GB(Gradient boosted trees) -- Accuracy: 0.433, Precision: 0.373, Recall:0.815, Latency: 0.0079889297485351
+GB(Gradient boosted trees) -- Accuracy: 0.433, Precision: 0.373, Recall:0.815
 
 **Conclusion**:
 
 We can see that from the 5 ML models the Random-Forest (learning_rate=0.01,max_depth=2, n_estimators=500) is the best fit. 
 
-Random Forest(with test_data) -- Accuracy: 0.804, Precision: 0.836, Recall:0.671, Latency: 0.046ms
+Random Forest(with test_data) -- Accuracy: 0.804, Precision: 0.836, Recall:0.671
 
 Thank you.
